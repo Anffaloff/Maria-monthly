@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(93, 50, 150);
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img {
+    width: 2500px; 
+}
